@@ -1,4 +1,4 @@
-# Snake Game – Day 24
+# Snake Game
 
 Welcome to my first GitHub repository!  
 This repository was created as part of my technical preparation for an upcoming interview with Sogeti, with the goal of demonstrating proficiency in using Git and GitHub for project version control.
